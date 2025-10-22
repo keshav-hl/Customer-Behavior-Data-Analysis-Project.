@@ -2,10 +2,11 @@
 Data analysis project showcasing customer behavior analysis using Python, SQL and Power BI.
 
 🧠 Data Analytics Project — From Data to Insights
-📋 Overview
 
+📋 Overview
 This project demonstrates a complete end-to-end data analytics workflow — from data collection and cleaning to visualization and presentation.
 The goal is to extract valuable business insights from a dataset using Python, SQL, and Power BI, and present the findings through a professional report and presentation.
+
 
 📂 Dataset
 
@@ -17,6 +18,7 @@ Description: Contains information about customer behavior, sales, transactions, 
 
 Size: ~ (mention number of rows & columns, e.g., 10,000 rows × 12 columns)
 
+
 🛠️ Tools & Technologies
 Category	Tools Used
 Programming	Python (Pandas, NumPy, Matplotlib, Seaborn)
@@ -24,7 +26,10 @@ Database	PostgreSQL / MySQL / SQL Server
 Visualization	Power BI
 Reporting	Microsoft PowerPoint / Gamma App
 Environment	Jupyter Notebook / VS Code
+
+
 🚀 Project Steps
+
 1. Data Loading
 
 Imported dataset using Pandas in Python.
@@ -91,6 +96,8 @@ Key findings
 
 Visual snapshots of the Power BI dashboard
 
+
+
 📊 Results & Insights
 
 Discovered actionable patterns in customer behavior.
@@ -100,6 +107,8 @@ Identified top-performing products and underperforming regions.
 Provided data-driven recommendations for business improvement.
 
 Built a real-time interactive dashboard to monitor KPIs.
+
+
 
 🧩 How to Run the Project
 
@@ -135,6 +144,8 @@ Open Power BI Dashboard
 
 Open .pbix file to explore visuals interactively.
 
+
+
 📁 Project Structure
 data-analytics-project/
 │
@@ -145,6 +156,7 @@ data-analytics-project/
 ├── report/                  # Gamma/PPT presentation
 ├── requirements.txt         # Python dependencies
 └── README.md                # Project documentation
+
 
 💬 Contact
 
