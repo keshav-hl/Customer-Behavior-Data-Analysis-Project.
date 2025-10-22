@@ -10,7 +10,7 @@ The goal is to extract valuable business insights from a dataset using Python, S
 
 📂 Dataset
 
-Source: (Add source name or link here, e.g., Kaggle / internal company dataset)
+Source: (customer_shopping_behavior.csv)
 
 Format: CSV / Excel / SQL table
 
