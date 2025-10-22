@@ -114,7 +114,7 @@ Built a real-time interactive dashboard to monitor KPIs.
 
 Clone the Repository
 
-git clone https://github.com/yourusername/data-analytics-project.git
+git clone https://github.com/keshav-hl/Customer-Behavior-Data-Analysis-Project..git
 cd data-analytics-project
 
 
